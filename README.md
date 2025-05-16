@@ -28,19 +28,16 @@ Scikit-learn
 Streamlit
 
 # 🚀 How to Run
-bash
-Copy
-Edit
-# Clone the repository
+Clone the repository
 git clone https://github.com/YourUsername/Movie-Recommender-System.git
 cd Movie-Recommender-System
 
-# Install dependencies
+Install dependencies
 pip install -r requirements.txt
 
 # Run the Streamlit application
 streamlit run app.py
-✅ Features
+# ✅ Features
 Enter any movie title and get the top 5–10 similar movies instantly.
 
 Recommendations are based purely on content similarity, not on user ratings or reviews.
