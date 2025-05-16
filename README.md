@@ -33,3 +33,7 @@ streamlit run app.py
 - Real-time, fast predictions with a clean, user-friendly interface.
 
 - Easily extendable to support new datasets or different similarity measures.
+
+  # Important Links:
+  - Similiarity.pkl file: https://drive.google.com/file/d/1ggVAR1siTs6dW0eAs0BmYzaH0KMq1fqq/view?usp=sharing
+  - Dataset link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
