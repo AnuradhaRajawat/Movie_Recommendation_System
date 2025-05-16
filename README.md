@@ -26,10 +26,10 @@ Python, Pandas, NumPy, NLTK (Natural Language Toolkit), Scikit-learn, Streamlit
 # Run the Streamlit application
 streamlit run app.py
 # ✅ Features
-Enter any movie title and get the top 5–10 similar movies instantly.
+- Enter any movie title and get the top 5–10 similar movies instantly.
 
-Recommendations are based purely on content similarity, not on user ratings or reviews.
+- Recommendations are based purely on content similarity, not on user ratings or reviews.
 
-Real-time, fast predictions with a clean, user-friendly interface.
+- Real-time, fast predictions with a clean, user-friendly interface.
 
-Easily extendable to support new datasets or different similarity measures.
+- Easily extendable to support new datasets or different similarity measures.
