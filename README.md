@@ -20,10 +20,6 @@ This project implements a  **Content-Based Movie Recommendation System** that su
 Python, Pandas, NumPy, NLTK (Natural Language Toolkit), Scikit-learn, Streamlit
 
 # 🚀 How to Run
-- Clone the repository
-  - git clone https://github.com/YourUsername/Movie-Recommender-System.git
-   cd Movie-Recommender-System
-
 - Install dependencies
    - pip install -r requirements.txt
 
