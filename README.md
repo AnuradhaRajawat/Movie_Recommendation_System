@@ -1,4 +1,5 @@
 🎬 Movie Recommendation System
+
 This project implements a Content-Based Movie Recommendation System that suggests movies similar to those a user likes, based on movie metadata such as genres, cast, and keywords. It uses natural language processing and vector-based similarity to provide real-time recommendations through an interactive Streamlit web app.
 
 📦 Project Overview
